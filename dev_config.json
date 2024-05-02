@@ -1,0 +1,51 @@
+[
+    {
+            "use_proxy":1,
+            "proxy_post":"192.168.143.101:4013",
+            "proxy_link":"192.168.143.101:4013",
+            "use_cookie":1,
+            "link":["https://voz.vn/f/diem-bao.33/"],
+            "cookie":[{
+                "domain": "voz.vn",
+                "expirationDate": 8841849156,
+                "name": "xf_bcc",
+                "path": "/",
+                "value": "cacbbbbc"
+            },
+            {
+                "domain": "voz.vn",
+                "name": "xf_session",
+                "path": "/",
+                "value": "dVrl08kOWl-sW6sLYhaXS7Ghy-U9wcfL"
+            },
+            {
+                "domain": "voz.vn",
+                "expirationDate": 8841849156.843996,
+                "name": "xf_user",
+                "path": "/",
+                "value": "1972472%2CQtj5lBKbMYGTIakLE9SPZwRWLWLaoVFF6mzs-3t8"
+            }]
+            
+    },
+    {
+        "use_proxy":1,
+        "proxy_post":"192.168.143.102:4007",
+        "proxy_link":"192.168.143.102:4007",
+        "use_cookie":1,
+        "link":["https://xamvn.mom/box/leu-bao-nguoi-toi-co.145/?order=bumped_threads&direction=desc"],
+        "cookie":[]
+        
+    },
+    {
+        "use_proxy":0,
+        "proxy_post":"192.168.143.102:4015",
+        "proxy_link":"192.168.143.102:4015",
+        "use_cookie":1,
+        "link":["https://www.otofun.net/whats-new/posts/12843013/"],
+        "cookies": [
+            {"name": "xfa_csrf", "value": "Vkqjcgp8SK8P7SgE", "domain": "www.otofun.net", "path": "/"},
+            {"name": "xfa_user", "value": "856628%2CtmH_iHIrtyc9wR9Jo7c9qnEdlABaWNeYXIXswJvB", "domain": "www.otofun.net", "path": "/","expiration":8841849156.843996},
+            {"name": "xfa_session", "value": "XeLG2MIMqN04px5S2aZx6LLdvIXkKUuS", "domain": "www.otofun.net", "path": "/"}
+                 ]
+    }
+]
